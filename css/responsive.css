@@ -1,6 +1,9 @@
 @media (max-width: 1024px) {
     h1 {
         font-size: 28px;
+        text-align: center;
+        height: 50px;
+
     }
      .div-image { 
         width: 200px;
