@@ -3,8 +3,10 @@
         font-size: 28px;
         text-align: center;
         height: 50px;
-
     }
+    .container-block {
+        align-items: center;
+}
      
     .section1 {
         margin-left: 60px;
