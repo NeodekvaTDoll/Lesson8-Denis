@@ -67,12 +67,14 @@ header {
 
 }
 .main-image {
-  	width: 600px;
+  	max-width: 600px;
+	width: 100%;
   	filter: drop-shadow(5px 5px #DDDBFE);
 }
 .div-image {
   	display: flex;
-	  width: 500px;
+	max-width: 500px;
+	width: 100%;
 
 }
 
