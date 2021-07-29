@@ -1,0 +1,12 @@
+@media (max-width: 1024px) {
+    h1 {
+        font-size: 28px;
+    }
+     .div-image { 
+        width: 300px;
+    }
+    .section1 {
+        margin-left: 60px;
+        margin-right:60px;
+    }
+}
