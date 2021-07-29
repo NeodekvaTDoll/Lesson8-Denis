@@ -6,13 +6,13 @@
 	vertical-align: center;
 
 }
-.nav-li {
+ul {
 	display: flex;
-	align-items: center;
+	width: 581px;
 	justify-content: space-between;
-	max-width: 581px;
-	width: 100%;
-	vertical-align: center;
+}
+.navigacia {
+	display: flex;
 
 }
 .devider {

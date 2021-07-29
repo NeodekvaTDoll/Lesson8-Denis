@@ -9,34 +9,40 @@
         align-items: center;
         margin: 0 auto;
     }
-    
-     
-    /* .section1 {
-        margin-left: 60px;
-        margin-right:60px;
-    } */
     .block-line {
         justify-content: center;
 
     }
+    .block1,.block2,.block3,.block4,.block5,.block6 {
+        margin: 20px; ;
+    }
+    
 }
 
-@media (max-width: 600px) {
+@media (max-width: 913px) {
     h1 {
-        font-size: 18px;
+        font-size: 28px;
+        margin-bottom: 20px;
     }
-    /* .section1 {
-        margin-left: 30px;
-        margin-right:30px;
+    .little-div {
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-bottom: 40px;
     }
-    .title-block {
-        width: 50%;
+    .text10 {
+        text-align: center;
     }
-    .div-image {
-        width: 50%;
+    .block1,.block2,.block3,.block4,.block5,.block6 {
+        margin: 20px; ;
     }
-    .container-block {
-        align-items: center;
-        justify-content: center;
-    } */
+}
+@media (max-width:757px) {
+.block1,.block2,.block3,.block4,.block5,.block6 {
+    margin-bottom: 20px;
+}
+}
+@media (max-width: 11920px) {
+    .block1,.block2,.block3,.block4,.block5,.block6 {
+        margin-bottom: 40px;
+    }
 }
