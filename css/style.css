@@ -10,7 +10,8 @@
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	width: 581px;
+	max-width: 581px;
+	width: 100%;
 	vertical-align: center;
 
 }
@@ -166,7 +167,6 @@ header {
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-
 
 }
 .block5 {
